@@ -14,13 +14,13 @@
 	<img src="img/giphy piłka.gif" /> <br/>
 	<br/><br/>
 	<h2>1. Leo Messi <h2/> <br/>
-	<img src="img/leo messi.jpg"/>
+	<Img src="img/leo messi.jpg"/>
 	<br/><br/>
 	<h2>2. Cristiano ronaldo <h2/> <br/>
-	<img src="img/ronaldo.jpg"/>
+	<Img src="img/ronaldo.jpg"/>
 	<br/><br/>
 	<h2>3. Robert Lewandowski <h2/> <br/>
-	<img src="img/lewy.jpg"/>
+	<Img src="img/lewy.jpg"/>
 </body>  
 </html>
 
