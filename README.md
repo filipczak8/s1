@@ -13,7 +13,7 @@
 </head>
 
 <body>
-	<img![giphy piłka](https://user-images.githubusercontent.com/66335256/114787360-f3b40200-9d7f-11eb-86c7-ae7d705bebf7.gif)>
+	![giphy piłka](https://user-images.githubusercontent.com/66335256/114787360-f3b40200-9d7f-11eb-86c7-ae7d705bebf7.gif)
 	<br/><br/>
 	<h2>1. Leo Messi <h2/> <br/>
 	<img ![leo messi](https://user-images.githubusercontent.com/66335256/114787361-f4e52f00-9d7f-11eb-8e6c-7f1c9b1501ac.jpg)>
