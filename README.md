@@ -1,5 +1,3 @@
-
-
 # s1
 <!DOCTYPE HTML>
 <html lang="pl">
@@ -16,6 +14,11 @@
 	![giphy piłka](https://user-images.githubusercontent.com/66335256/114787360-f3b40200-9d7f-11eb-86c7-ae7d705bebf7.gif)
 	<br/><br/>
 	<h2>1. Leo Messi <h2/> <br/>
+
+![leo messi](https://user-images.githubusercontent.com/66335256/114787919-d59ad180-9d80-11eb-8ef7-441f04cd6569.jpg)
+
+
+
 	<img ![leo messi](https://user-images.githubusercontent.com/66335256/114787361-f4e52f00-9d7f-11eb-8e6c-7f1c9b1501ac.jpg)>
 	<br/><br/>
 	<h2>2. Cristiano ronaldo <h2/> <br/>
