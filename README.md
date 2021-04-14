@@ -15,8 +15,6 @@
 	<h2>1. Leo Messi <h2/> <br/>
 	<img src="img/leo messi.jpg/>
 	<br/><br/>
-	
-	
 	<h2>2. Cristiano ronaldo <h2/> <br/>
 	<img src="img/ronaldo.jpg"/>
 	<br/><br/>
