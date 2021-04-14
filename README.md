@@ -23,15 +23,15 @@
 
 
 	
-	<br/><br/>
-	<h2>2. Cristiano ronaldo <h2/> <br/>
-	![ronaldo](https://user-images.githubusercontent.com/66335256/114788060-1f83b780-9d81-11eb-937e-d12c95a3bed0.jpg)
+	
+	2. Cristiano ronaldo 
+![ronaldo](https://user-images.githubusercontent.com/66335256/114788477-d1bb7f00-9d81-11eb-8259-83c5e41e31b1.jpg)
 
-	<br/><br/>
-	<h2>3. Robert Lewandowski <h2/> <br/>
-	<Img src="img/lewy.jpg"/>
-</body>  
-</html>
+
+	
+	3. Robert Lewandowski 
+	
+![lewy](https://user-images.githubusercontent.com/66335256/114788526-e7c93f80-9d81-11eb-854f-9bc85934b5a9.jpg)
 
 
 
