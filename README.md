@@ -21,7 +21,7 @@
 	<img ![leo messi](https://user-images.githubusercontent.com/66335256/114787361-f4e52f00-9d7f-11eb-8e6c-7f1c9b1501ac.jpg)>
 	<br/><br/>
 	<h2>2. Cristiano ronaldo <h2/> <br/>
-	<Img src="img/ronaldo.jpg"/>
+	<Img src="img/![ronaldo](https://user-images.githubusercontent.com/66335256/114787364-f4e52f00-9d7f-11eb-96a4-5f29ebee0dc1.jpg)"/>
 	<br/><br/>
 	<h2>3. Robert Lewandowski <h2/> <br/>
 	<Img src="img/lewy.jpg"/>
