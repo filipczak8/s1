@@ -1,3 +1,4 @@
+
 # s1
 <!DOCTYPE HTML>
 <html lang="pl">
@@ -11,10 +12,11 @@
 </head>
 
 <body>
-	![giphy piłka](https://user-images.githubusercontent.com/66335256/114788014-0a0e8d80-9d81-11eb-8710-96bd338508a7.gif)
+	
+![giphy piłka](https://user-images.githubusercontent.com/66335256/114788429-b5b7dd80-9d81-11eb-9454-1d78821b0dd7.gif)
 
-	<br/><br/>
-	<h2>1. Leo Messi <h2/> <br/>
+	
+	1. Leo Messi 
 
 ![leo messi](https://user-images.githubusercontent.com/66335256/114787919-d59ad180-9d80-11eb-8ef7-441f04cd6569.jpg)
 
@@ -30,5 +32,6 @@
 	<Img src="img/lewy.jpg"/>
 </body>  
 </html>
+
 
 
