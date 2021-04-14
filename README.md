@@ -1,5 +1,4 @@
 # s1
-<!DOCTYPE HTML>
 <html lang="pl">
 <head>
 	<meta charset="uft-8"/>
