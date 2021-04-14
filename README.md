@@ -3,7 +3,7 @@
 <html lang="pl">
 <head>
 	<meta charset="uft-8"/>
-	<title>Najlepsi piłkarze</title>
+	Najlepsi piłkarze
 	<meta name="description" content="ciekawostki na temat piłki nożnej"/>
 	<meta name="keywords" content="pomoc dla fanów piłki noznej"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,opera=1"/>
