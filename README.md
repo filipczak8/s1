@@ -1,7 +1,5 @@
-![giphy piłka](https://user-images.githubusercontent.com/66335256/114787360-f3b40200-9d7f-11eb-86c7-ae7d705bebf7.gif)
-![leo messi](https://user-images.githubusercontent.com/66335256/114787361-f4e52f00-9d7f-11eb-8e6c-7f1c9b1501ac.jpg)
-![lewy](https://user-images.githubusercontent.com/66335256/114787362-f4e52f00-9d7f-11eb-8124-549660f9f7e5.jpg)
-![ronaldo](https://user-images.githubusercontent.com/66335256/114787364-f4e52f00-9d7f-11eb-96a4-5f29ebee0dc1.jpg)
+
+
 # s1
 <!DOCTYPE HTML>
 <html lang="pl">
