@@ -1,4 +1,5 @@
 # s1
+<!DOCTYPE HTML>
 <html lang="pl">
 <head>
 	<meta charset="uft-8"/>
@@ -13,13 +14,13 @@
 	<img src="img/giphy piłka.gif" /> <br/>
 	<br/><br/>
 	<h2>1. Leo Messi <h2/> <br/>
-	<img src="img/leo messi.jpg"width="1200"height="900"/>
+	<img src="img/leo messi.jpg"/>
 	<br/><br/>
 	<h2>2. Cristiano ronaldo <h2/> <br/>
-	<img src="img/ronaldo.jpg"width="775"height="435"
+	<img src="img/ronaldo.jpg"/>
 	<br/><br/>
 	<h2>3. Robert Lewandowski <h2/> <br/>
-	<img src="img/lewy.jpg"width="788"height="444"
+	<img src="img/lewy.jpg"/>
 </body>  
 </html>
 
